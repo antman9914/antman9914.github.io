@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering, School of Computer Science, Wuhan University, 2017-2021
-* M.S. in Artificial Intelligence, Gaoling Schoole of Artificial Intelligence, Renmin University of China, 2021-2024(Expected)
+* M.S. in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China, 2021-2024(Expected)
 
 Experience
 ======

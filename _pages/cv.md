@@ -11,49 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, School of Computer Science, Wuhan University, 2017-2021
+* M.S. in Artificial Intelligence, Gaoling Schoole of Artificial Intelligence, Renmin University of China, 2021-2024(Expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern, MSRA
+  * 2021/12-2022/06, Social Computing Group, hosted by [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia) and [Chaozhuo Li](https://whatsname1991.github.io/)
+  * Worked on fairness-aware recommendation and degree-related bias in graph machine learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, Peking University
+  * 2020/11-2021/04, Wangxuan Institute of Computer Technology, hosted by Prof. [Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=en)
+  * Worked on knowledge-grounded conversation under [Chongyang Tao](https://chongyangtao.github.io/index.html)'s leadership
   
-Skills
+Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* None

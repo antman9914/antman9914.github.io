@@ -27,3 +27,8 @@ Experience
 Service
 ======
 * None
+
+Miscs
+======
+I'm passionate about various kinds of audio-visual arts, especially classical music, jazz, cinematic art and visual art in games. I'm also eager to travel around the world, to observe and explore the philosophical truth of the world.
+

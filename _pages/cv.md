@@ -17,7 +17,7 @@ Education
 Experience
 ======
 * Research Intern, University of Illinois Urbana-Champaign
-  * 2022/06-Now, The Grainger College of Engineering in Computer Science, hosted by [Hanghang Tong](http://tonghanghang.org/)
+  * 2022/06-Now, The Grainger College of Engineering in Computer Science, hosted by Prof. [Hanghang Tong](http://tonghanghang.org/)
   * Working on next POI recommendation and spatio-temporal graph embedding, mentored by Baoyu Jing
 
 * Research Intern, MSRA

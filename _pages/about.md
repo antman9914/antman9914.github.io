@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Yijun Ma (马逸君 in Chinese)"
+title: "About Yijun Ma"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
+* Research Intern, Gaoling School of Artificial Intelligence, Renmin University of China, 2021-Present
 * B.S. in Software Engineering, School of Computer Science, Wuhan University, 2017-2021
-* M.S. in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China, 2021-2024(Expected)
 
 Experience
 ======
-* Research Intern, University of Illinois Urbana-Champaign
+* Research Assistant, University of Illinois Urbana-Champaign
   * 2022/06-Now, The Grainger College of Engineering in Computer Science, hosted by Prof. [Hanghang Tong](http://tonghanghang.org/)
   * Working on next POI recommendation and spatio-temporal graph embedding, mentored by Baoyu Jing
 
 * Research Intern, MSRA
-  * 2021/12-2022/06, Social Computing Group, hosted by [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia) and [Chaozhuo Li](https://whatsname1991.github.io/)
+  * 2021/12-2022/06, Social Computing Group, hosted by [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia) and [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
   * Worked on fairness-aware recommendation and degree-related bias in graph machine learning
 
 * Research Assistant, Peking University

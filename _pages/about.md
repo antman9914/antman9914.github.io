@@ -17,6 +17,6 @@ My major research interest lies on graph machine learning, especially on improvi
 
 ## News
 
-- :sparkles: \[2022.08\] I'll deliever a talk *"Towards Expressive Tail Node Embedding for Link Prediction"* on Social Computing Group Seminar, MSRA. Slides are available [here](https://antman9914.github.io/files/talk202208msra.pdf)
+- ✨ \[2022.08\] I'll deliever a talk *"Towards Expressive Tail Node Embedding for Link Prediction"* on Social Computing Group Seminar, MSRA. Slides are available [here](https://antman9914.github.io/files/talk202208msra.pdf)
 - \[2022.06\] Finished the wonderful journey in MSRA and awarded as *"Stars of Tomorrow"* excellent intern!
 - \[2022.05\] I'll deliever a talk *"Fairness-Aware Friend Recommendation with Heterogeneous Graph Signal"* on BDAI Seminar, Renmin University of China.

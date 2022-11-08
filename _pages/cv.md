@@ -17,8 +17,8 @@ Education
 Experience
 ======
 * Research Assistant, University of Illinois Urbana-Champaign
-  * 2022/06-Now, The Grainger College of Engineering in Computer Science, hosted by Prof. [Hanghang Tong](http://tonghanghang.org/)
-  * Working on next POI recommendation and spatio-temporal graph embedding, mentored by Baoyu Jing
+  * 2022/07-Now, The Grainger College of Engineering in Computer Science, hosted by Prof. [Hanghang Tong](http://tonghanghang.org/)
+  * Working on next POI recommendation and spatio-temporal graph embedding, mentored by [Baoyu Jing](https://scholar.google.com/citations?hl=en&user=cl9YMcUAAAAJ&view_op=list_works&sortby=pubdate)
 
 * Research Intern, MSRA
   * 2021/12-2022/06, Social Computing Group, hosted by [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia) and [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/)
@@ -30,7 +30,7 @@ Experience
   
 Service
 ======
-* None
+* Revier: AAAI 2023
 
 Miscs
 ======

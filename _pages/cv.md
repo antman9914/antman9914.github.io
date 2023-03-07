@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Research Intern, Gaoling School of Artificial Intelligence, Renmin University of China, 2021-Present
+* M.S. in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China, 2021-Present
 * B.S. in Software Engineering, School of Computer Science, Wuhan University, 2017-2021
 
 Experience

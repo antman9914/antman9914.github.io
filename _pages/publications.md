@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2023
+<h3>2023</h3>
 
-<b>HoST: Exploiting Heterogeneous Spatial-Temporal Graph for Next POI Recommendation<\b><br>
+<b>HoST: Exploiting Heterogeneous Spatial-Temporal Graph for Next POI Recommendation</b><br>
 
-<b>Yijun Ma<\b>, Baoyu Jing, Yuchen Yan, Hanghang Tong <br>
+<b>Yijun Ma</b>, Baoyu Jing, Yuchen Yan, Hanghang Tong <br>
 
-  <i>under review<i> <a href="https://antman9914.github.io/files/Yijun_KDD23_HoST.pdf">paper</a>
+<i>under review</i> <a href="https://antman9914.github.io/files/Yijun_KDD23_HoST.pdf">paper</a>
   
 <!-- **Self-Knowledge Distillation for Tail User Representation**
 

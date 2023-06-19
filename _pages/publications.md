@@ -11,13 +11,13 @@ author_profile: true
 
 <b>Yijun Ma</b>, Baoyu Jing, Yuchen Yan, Hanghang Tong <br>
 
-<i>under review</i> <a href="https://antman9914.github.io/files/Yijun_KDD23_HoST.pdf">paper</a>
+<i>under review</i>
 
 <b>Tail-STEAK: Tail-Oriented Self-Training Enhanced Knowledge Distillation for Graph-Based Friend Recommendation</b><br>
 
 <b>Yijun Ma</b>, Jianxun Lian, Xiao Zhou, Chaozhuo Li, Xing Xie <br>
 
-<i>technical report</i> 
+<i>technical report, under review</i> 
 <!-- <a href="https://antman9914.github.io/files/Yijun_KDD23_HoST.pdf">paper</a> -->
   
 <!-- **Self-Knowledge Distillation for Tail User Representation**

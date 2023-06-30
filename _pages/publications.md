@@ -17,7 +17,7 @@ author_profile: true
 
 <b>Yijun Ma</b>, Jianxun Lian, Xiao Zhou, Chaozhuo Li, Xing Xie <br>
 
-<i>technical report, under review</i> 
+<i>under review</i> 
 <!-- <a href="https://antman9914.github.io/files/Yijun_KDD23_HoST.pdf">paper</a> -->
   
 <!-- **Self-Knowledge Distillation for Tail User Representation**

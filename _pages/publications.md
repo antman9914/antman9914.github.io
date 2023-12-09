@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## 2024
-- **Yijun Ma**, Xiao Zhou, Chaozhuo Li, "Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation." AAAI 2024.
-- **Yijun Ma**, Baoyu Jing, Yuchen Yan, Hanghang Tong, "HoST: Exploiting Heterogeneous Spatial-Temporal Graph for Next POI Recommendation." Under Review.
+- **Yijun Ma**, Xiao Zhou, Chaozhuo Li, "Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation." **AAAI** 2024.
+- **Yijun Ma**, Baoyu Jing, Yuchen Yan, Hanghang Tong, "HoST: Exploiting Heterogeneous Spatial-Temporal Graph for Next POI Recommendation." *Under Review*.
 
 
 <!-- <a href="https://antman9914.github.io/files/Yijun_KDD23_HoST.pdf">paper</a> -->

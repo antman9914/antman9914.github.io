@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yijun Ma"
 title_separator          : "-"
 name                     : &name "Yijun Ma"
-description              : &description "Research Intern"
+description              : &description "Research Assistant"
 url                      : https://antman9914.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antman9914/antman9914.github.io"
@@ -87,7 +87,7 @@ author:
   employer         : "GSAI, RUC"
   pubmed           : 
   googlescholar    : 
-  email            : "coldgentlema@gmail.com"
+  email            : "fourthhand08@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

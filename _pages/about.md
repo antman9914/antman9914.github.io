@@ -12,7 +12,7 @@ Hello world! I have just received my master's degree from [Gaoling School of Art
 
 My recent research interest lies on recommender systems, especially on improving the fairness and explainability of graph-based recommender systems and exploring the dynamicity of user preference from the perspective of graph. I'm also interested in the broad applications of graph machine learning, such as social networks, spatial-temporal data mining and other interdiscipline fields like AI4Science. My recent work focus on degree-based fairness in social network representation learning and self-explainable social recommendation.
 
-**I'm currently looking for a Ph.D. position starting in late 2024 or 2025. Please contact me at <font color=Blue>fourthhand08 AT gmail DOT com</font> if you're interested, and I'm willing to work as research assistant in advance if necessary.**
+**I am currently looking for a Ph.D. position starting in late 2024 or 2025. Please contact me at <font color=Blue>fourthhand08 AT gmail DOT com</font> if you're interested, and I'm willing to work as research assistant in advance if necessary.**
 
 
 ## News

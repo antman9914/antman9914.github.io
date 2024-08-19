@@ -16,7 +16,7 @@ My recent research interest lies on recommender systems, especially on improving
 
 
 ## News
-- ✨\[2024.05\] I successfully defended my M.Sc. thesis titled "Responsible Friend Recommendation via Self-Knowledge Distillation"! Happy graduation to myself and all my friends!
+- ✨\[2024.05\] I successfully defended my M.Sc. thesis titled "Responsible Friend Recommendation via Self-Knowledge Distillation"! 
 - \[2023.12\] I have been accepted to the AAAI-24 student scholarship and volunteer program! Thanks to my supervisor's support!
 - \[2023.12\] One paper about degree-related bias in friend recommendation gets accepted by **AAAI'24**! (acceptance rate 19.36%)
     - Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28737)\] \[[code](https://github.com/antman9914/Tail-STEAK)\]

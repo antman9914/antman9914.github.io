@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 - **Yijun Ma**, Chaozhuo Li, Xiao Zhou, "Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation." **AAAI 2024**. \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28737)\] \[[code](https://github.com/antman9914/Tail-STEAK)\]
-- **Yijun Ma**, Baoyu Jing, Yuchen Yan, Hanghang Tong, "HoST: Exploiting Heterogeneous Spatial-Temporal Graph for Next POI Recommendation." *Under Review*. \[[abstract page](https://antman9914.github.io/files/Yijun_HoST__Abstract.pdf)\]
+- **Yijun Ma**, Baoyu Jing, Yuchen Yan, Hanghang Tong, "HoST: Exploiting Heterogeneous Spatial-Temporal Graph for Next POI Recommendation." *Under Review*. <!--\[[abstract page](https://antman9914.github.io/files/Yijun_HoST__Abstract.pdf)\]-->
 - **Yijun Ma**, Xiao Zhou, "SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction." *Submitted to TOIS. Under Review*.
 
 <!-- <a href="https://antman9914.github.io/files/Yijun_KDD23_HoST.pdf">paper</a> -->

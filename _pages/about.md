@@ -14,7 +14,7 @@ My research interests broadly encompass topics in graph machine learning, graph 
 
 
 ## News
-- \[2025.02\] I will be attending the University of Notre Dame in August 2024.
+- ✨\[2025.02\] I will be attending the University of Notre Dame in August 2024.
 - \[2024.05\] I successfully defended my M.Sc. thesis titled "Responsible Friend Recommendation via Self-Knowledge Distillation".
 - \[2023.12\] I have been accepted to the AAAI-24 student scholarship and volunteer program! Thanks to the support from Prof. Zhou!
 - \[2023.12\] One paper about degree-related bias in friend recommendation gets accepted by **AAAI'24**. (acceptance rate 19.36%)

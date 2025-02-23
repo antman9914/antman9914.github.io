@@ -14,9 +14,10 @@ My research interests broadly encompass topics in graph machine learning, graph 
 
 
 ## News
-- ✨\[2024.05\] I successfully defended my M.Sc. thesis titled "Responsible Friend Recommendation via Self-Knowledge Distillation"! 
-- \[2023.12\] I have been accepted to the AAAI-24 student scholarship and volunteer program! Thanks to my advisor's support!
-- \[2023.12\] One paper about degree-related bias in friend recommendation gets accepted by **AAAI'24**! (acceptance rate 19.36%)
+- \[2025.02\] I will be attending the University of Notre Dame in August 2024.
+- \[2024.05\] I successfully defended my M.Sc. thesis titled "Responsible Friend Recommendation via Self-Knowledge Distillation".
+- \[2023.12\] I have been accepted to the AAAI-24 student scholarship and volunteer program! Thanks to the support from Prof. Zhou!
+- \[2023.12\] One paper about degree-related bias in friend recommendation gets accepted by **AAAI'24**. (acceptance rate 19.36%)
     - Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28737)\] \[[code](https://github.com/antman9914/Tail-STEAK)\]
 - \[2022.08\] I'll deliever a talk *"Towards Expressive Tail Node Embedding for Link Prediction"* on Social Computing Group Seminar, MSRA. Slides are available [here](https://antman9914.github.io/files/talk202208msra.pdf)
 - \[2022.06\] Finished the wonderful journey in MSRA and awarded as *"Stars of Tomorrow"* excellent intern!

@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am an incoming PhD student at [CSE](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu/), where I will be fortunately advised by [Prof. Fanny Ye](http://yes-lab.org/). I received my master's degree at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/index.htm), [Renmin University of China](https://en.ruc.edu.cn/), advised by [Prof. Xiao Zhou](https://xiaozhoucam.github.io/). Before that, I completed my undergraduate studies at [School of Computer Science](http://cs.whu.edu.cn/aspx/enmain/), [Wuhan University](https://en.whu.edu.cn/). I worked as a research intern in [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) and [Social Computing Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), where I was fortunate to work with [Prof. Hanghang Tong](http://tonghanghang.org/), [Dr. Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia) and [Dr. Chaozhuo Li](https://whatsname1991.github.io/). Please check my [CV](https://antman9914.github.io/files/CV.pdf) for detailed information (Until Jan 2025).
 
-My research interests broadly encompass topics in graph machine learning, graph foundation models and their applications in recommender systems and healthcare. Please feel free to contact me at (**fourthhand08 AT gmail DOT com**) if you are interested in my research or would like to explore potential collaborations.
+My research interests broadly encompass topics in graph machine learning, graph foundation models and their applications in recommender systems and healthcare. Please feel free to contact me if you are interested in my research or would like to explore potential collaborations.
 
 
 ## News

@@ -19,4 +19,10 @@ My research interests encompass topics in graph machine learning, graph foundati
 - \[2024.05\] I successfully defended my M.Sc. thesis titled "Responsible Friend Recommendation via Self-Knowledge Distillation".
 - \[2023.12\] One paper about degree-related bias in friend recommendation was accepted by **AAAI'24**. (acceptance rate 19.36%)
     - Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28737)\] \[[code](https://github.com/antman9914/Tail-STEAK)\]
-- \[2022.06\] Finished the wonderful journey in MSRA and awarded as *"Stars of Tomorrow"* excellent intern!
+- \[2022.06\] Finished the wonderful journey in MSRA and awarded as *"Stars of Tomorrow"* intern!
+
+
+## Contact
+- Email: yma7 [AT] nd [DOT] edu.
+- Office: 247 Fitzpatrick Hall of Engineering.
+- Location: University of Notre Dame, Notre Dame, IN 46565.

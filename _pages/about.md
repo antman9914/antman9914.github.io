@@ -15,7 +15,7 @@ My research interests encompass topics in graph machine learning, graph foundati
 
 ## News
 - ✨\[2025.09\] One paper about explainable social recommendation was accepted by **TOIS**. Congratulations to Hanze!
-  - SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction \[[paper]()\] \[[code](https://github.com/antman9914/SoREX)\].
+  - SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction \[[paper](https://arxiv.org/pdf/2510.00080)\] \[[code](https://github.com/antman9914/SoREX)\].
 - \[2024.05\] I successfully defended my M.Sc. thesis titled "Responsible Friend Recommendation via Self-Knowledge Distillation".
 - \[2023.12\] One paper about degree-related bias in friend recommendation was accepted by **AAAI'24**. (acceptance rate 19.36%)
     - Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28737)\] \[[code](https://github.com/antman9914/Tail-STEAK)\]

@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2025
 - Hanze Guo\*, **Yijun Ma**\*, and Xiao Zhou. "SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction." **TOIS 2025**. \[[code](https://github.com/antman9914/SoREX)\]
-- Fanny Ye, Zheyuan Zhang, Tianyi Ma, Zehong Wang, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, **Yijun Ma**, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla. "LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines". \[[paper](https://arxiv.org/pdf/2509.19580)\]
+- Fanny Ye, Zheyuan Zhang, Tianyi Ma, Zehong Wang, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, **Yijun Ma**, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla. "LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines". ArXiv Preprint, arXiv:2509.19580. \[[paper](https://arxiv.org/pdf/2509.19580)\]
 - Zehong Wang, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, **Yijun Ma**, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, and Yanfang Ye. "Graph Foundation Models: A Comprehensive Survey". ArXiv Preprint, arXiv:2505.15116. \[[paper](https://arxiv.org/pdf/2505.15116)\]
 
 ## 2024

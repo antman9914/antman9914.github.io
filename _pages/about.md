@@ -1,4 +1,4 @@
----
+d---
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -16,9 +16,6 @@ My research interests encompass topics in foundation models (e.g., graph foundat
 ## News
 - ✨\[2025.09\] One paper about explainable social recommendation was accepted by **TOIS**. Congratulations to Hanze!
   - SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction \[[paper](https://dl.acm.org/doi/10.1145/3777374)\] \[[code](https://github.com/antman9914/SoREX)\].
-- \[2023.12\] One paper about degree-related bias in friend recommendation was accepted by **AAAI'24**.
-    - Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28737)\] \[[code](https://github.com/antman9914/Tail-STEAK)\]
-- \[2022.06\] Finished the wonderful journey in MSRA and awarded as *"Stars of Tomorrow"* intern!
 
 
 ## Contact

@@ -10,8 +10,8 @@ author_profile: true
 ## Preprint
 
 - **Yijun Ma**\*, Zehong Wang\*, Weixiang Sun and Yanfang Ye. "Temporal Graph Pattern Machine." ArXiv Preprint. \[[paper](https://arxiv.org/pdf/2601.22454)\]
-- **Yijun Ma**, Zehong Wang\*, Weixiang Sun, Zheyuan Zhang, Kaiwen Shi, Nitesh V. Chawla, Yanfang Ye. "Policy4OOD: A Knowledge-Guided World Model for Policy Intervention Simulation against the Opioid Overdose Crisis". \[[paper](https://antman9914.github.io/)\]
-- Zehong Wang, Fang Wu, Hongru Wang, Xiangru Tang, Bolian Li, Zhenfei Yin, **Yijun Ma**, Yiyang Li, Weixiang Sun, Xiusi Chen, Yanfang Ye. "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents". \[[paper](https://arxiv.org/pdf/2601.22311)\].
+- **Yijun Ma**, Zehong Wang\*, Weixiang Sun, Zheyuan Zhang, Kaiwen Shi, Nitesh V. Chawla, Yanfang Ye. "Policy4OOD: A Knowledge-Guided World Model for Policy Intervention Simulation against the Opioid Overdose Crisis". ArXiv Preprint. \[[paper](https://antman9914.github.io/)\]
+- Zehong Wang, Fang Wu, Hongru Wang, Xiangru Tang, Bolian Li, Zhenfei Yin, **Yijun Ma**, Yiyang Li, Weixiang Sun, Xiusi Chen, Yanfang Ye. "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents". ArXiv Preprint. \[[paper](https://arxiv.org/pdf/2601.22311)\].
 
 ## 2025
 - Hanze Guo\*, **Yijun Ma**\*, and Xiao Zhou. "SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction." **TOIS 2025**. \[[paper](https://dl.acm.org/doi/10.1145/3777374)\] \[[code](https://github.com/antman9914/SoREX)\]

@@ -16,6 +16,8 @@ Hi! I am Yijun Ma, a first-year PhD student in the [Department of Computer Scien
 
 ◦ **Trustworthy Learning on Graphs**: Interpretable and robust graph learning under data sparsity([TOIS'25](https://dl.acm.org/doi/10.1145/3777374),[AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/28737)).
 
+For more details, please check my CV [here](/files/Yijun_CV.pdf).
+
 
 ## News
 - ✨ \[2025.10\] We have released [LLMs4ALL](https://arxiv.org/pdf/2509.19580), an extensive survey on LLMs for research and applications in various academic disciplines.

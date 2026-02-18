@@ -10,13 +10,13 @@ redirect_from:
 
 Hi! I am Yijun Ma, a first-year PhD student in the [Department of Computer Science and Engineering](https://cse.nd.edu/) at the University of Notre Dame, advised by [Prof. Fanny Ye](http://yes-lab.org/). My research focuses on machine learning and data science, especially foundation models for structured and dynamic data, and their applications in healthcare and information systems. I aim to enable foundation models to reason over large-scale structured data, simulate complex systems, and support decision-making for real-world challenges. Specifically, the topics mainly cover the following aspects:
 
-◦ **Graph Foundation Model**: Pattern-centric temporal graph learning. Pattern-centric temporal graph foundation model ([ArXiv](https://arxiv.org/abs/2601.22454)); General graph foundation model ([Survey](https://arxiv.org/pdf/2505.15116)).
+◦ **Graph Foundation Model**: Pattern-centric temporal graph learning ([ArXiv](https://arxiv.org/abs/2601.22454)); General graph foundation model ([Survey](https://arxiv.org/pdf/2505.15116)).
 
-◦ **AI for Science and Social Good**: Policy evaluation for opioid epidemic ([ArXiv](https://arxiv.org/pdf/2602.12373)); LLMs for scientific discovery([Survey](https://arxiv.org/pdf/2509.19580)).
+◦ **AI for Science and Social Good**: Policy evaluation for opioid epidemic ([ArXiv](https://arxiv.org/pdf/2602.12373)); LLMs for scientific discovery ([Survey](https://arxiv.org/pdf/2509.19580)).
 
-◦ **Trustworthy Learning on Graphs**: Interpretable and robust graph learning under data sparsity([TOIS'25](https://dl.acm.org/doi/10.1145/3777374),[AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/28737)).
+◦ **Trustworthy Learning on Graphs**: Interpretable and robust graph learning under data sparsity ([TOIS'25](https://dl.acm.org/doi/10.1145/3777374), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/28737)).
 
-For more details, please check my CV [here](/files/Yijun_CV.pdf).
+For more details, please check my CV [here](/files/Yijun_CV.pdf). Feel free to reach out me via email if you are interested in my work and would like to explore potential collaborations.
 
 
 ## News

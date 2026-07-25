@@ -26,7 +26,7 @@ For more details, please check my CV [here](/files/Yijun_CV.pdf). Feel free to r
 
 ## Services
 
-◦ Reviewer, CIKM 2026.
+- Reviewer, CIKM 2026.
 
 ## Contact
 - Email: yma7 [AT] nd [DOT] edu.

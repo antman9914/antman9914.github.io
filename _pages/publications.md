@@ -8,15 +8,15 @@ author_profile: true
 (\* indicates equal contribution.)
 
 ## Preprint
-- **Yijun Ma**, Zehong Wang, Yiyang Li, Ziming Li, Xiaoguang Guo, Weixiang Sun, Chuxu Zhang, Yanfang Ye. "ProPlay: Procedural World Models for Self-Evolving LLM Agents". \[[paper](https://arxiv.org/abs/2606.12780)\] \[[code](https://github.com/antman9914/proplay)\]
+- **Yijun Ma**\*, Zehong Wang\*, Yiyang Li, Ziming Li, Xiaoguang Guo, Weixiang Sun, Chuxu Zhang, Yanfang Ye. "ProPlay: Procedural World Models for Self-Evolving LLM Agents". \[[paper](https://arxiv.org/abs/2606.12780)\] \[[code](https://github.com/antman9914/proplay)\]
 - Yiyang Li, Tianyi Ma, Zehong Wang, **Yijun Ma**, Yanfang Ye. "Object-Centric Environment Modeling for Agentic Tasks". \[[paper](https://arxiv.org/abs/2607.02846)\]
 - Tianyi Ma\*, **Yijun Ma**\*, Zehong Wang, Weixiang Sun, Ziming Li, Connor R. Schmidt, Chuxu Zhang, Matthew J. Webber, Yanfang Ye. "SupraBench: A Benchmark for Supramolecular Chemistry". \[[paper](https://arxiv.org/abs/2606.13477)\]\[[code](https://github.com/Tianyi-Billy-Ma/SupraBench)\].
-- Zehong Wang, **Yijun Ma**, Connor R Schmidt, Tianyi Ma, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J Webber, Yanfang Ye. "MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback". \[[paper](https://arxiv.org/abs/2606.12916)\] \[[code](https://github.com/Zehong-Wang/MDForge)\].
 - Zehong Wang, Fang Wu, Hongru Wang, Xiangru Tang, Bolian Li, Zhenfei Yin, **Yijun Ma**, Yiyang Li, Weixiang Sun, Xiusi Chen, Yanfang Ye. "Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents". \[[paper](https://arxiv.org/pdf/2601.22311)\]\[[code](https://zehong-wang.github.io/publications)\].
 - **Yijun Ma**\*, Zehong Wang\*, Weixiang Sun, Zheyuan Zhang, Kaiwen Shi, Nitesh V. Chawla, Yanfang Ye. "Policy4OOD: A Knowledge-Guided World Model for Policy Intervention Simulation against the Opioid Overdose Crisis". \[[paper](https://arxiv.org/pdf/2602.12373)\] \[[code](https://github.com/antman9914/Policy4OOD)\].
 
 
 ## 2026
+- Zehong Wang, **Yijun Ma**, Connor R Schmidt, Tianyi Ma, Weixiang Sun, Ziming Li, Xiaoguang Guo, Chuxu Zhang, Matthew J Webber, Yanfang Ye. "MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback". EMNLP 2026. \[[paper](https://arxiv.org/abs/2606.12916)\] \[[code](https://github.com/Zehong-Wang/MDForge)\].
 - **Yijun Ma**\*, Zehong Wang\*, Weixiang Sun and Yanfang Ye. "Temporal Graph Pattern Machine." GFM@ICML workshop (Oral). \[[paper](https://arxiv.org/pdf/2601.22454)\]\[[code](https://github.com/antman9914/TGPM)\]
 
 ## 2025

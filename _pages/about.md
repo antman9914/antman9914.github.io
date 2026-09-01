@@ -20,8 +20,8 @@ For more details, please check my CV [here](/files/Yijun_CV.pdf). Feel free to r
 
 
 ## News
-- ✨\[2026.08\] Two papers are accepted to EMNLP 2026.
-- \[2026.06\] One paper is accepted to GFM@ICML (Oral).
+- ✨\[2026.08\] One paper accepted to EMNLP 2026.
+- \[2026.06\] One paper accepted to GFM@ICML (Oral).
 - \[2025.10\] We have released [LLMs4ALL](https://arxiv.org/pdf/2509.19580), an extensive survey on LLMs for research and applications in various academic disciplines.
 
 

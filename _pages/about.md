@@ -14,7 +14,7 @@ Hi! I am Yijun Ma, a second-year PhD student in the [Department of Computer Scie
 
 ◦ **AI for Science and Social Good**:  LLMs and agentic systems for scientific discovery ([MDForge](https://arxiv.org/abs/2606.12916), [SupraBench](https://arxiv.org/abs/2606.13477), [Survey](https://arxiv.org/pdf/2509.19580)); Policy evaluation for opioid epidemic ([Policy4OOD](https://arxiv.org/pdf/2602.12373)).
 
-◦ **Self-Evolving Agentic AI**: World model based agents ([ProPlay](https://arxiv.org/abs/2606.12780), [OCM](https://arxiv.org/abs/2607.02846)), Agent for long-horizon planning ([FLARE](https://arxiv.org/abs/2601.22311)).
+◦ **Self-Evolving Agentic AI**: World model based self-evolving agents ([ProPlay](https://arxiv.org/abs/2606.12780)).
 
 For more details, please check my CV [here](/files/Yijun_CV.pdf). Feel free to reach out me via email if you are interested in my work and would like to explore potential collaborations.
 
@@ -28,6 +28,8 @@ For more details, please check my CV [here](/files/Yijun_CV.pdf). Feel free to r
 ## Services
 
 - Reviewer, CIKM 2026.
+- Reviewer, ICLR 2027.
+- Reviewer, WWW 2027.
 
 ## Contact
 - Email: yma7 [AT] nd [DOT] edu.
